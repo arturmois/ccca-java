@@ -1,0 +1,5 @@
+Registry.class
+CreateUserUseCase.class
+UserRepository.class
+FirebirdConnection.class
+User.class
